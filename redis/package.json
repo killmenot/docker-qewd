@@ -1,0 +1,12 @@
+{
+  "name": "ripple-qewd-facade",
+  "version": "0.1.0-redis",
+  "scripts": {
+    "start": "node qewd.js"
+  },
+  "devDependencies": {
+    "qewd": "^2.36.3",
+    "qewd-router": "^1.13.1",
+    "tcp-netx": "^1.0.7-a"
+  }
+}
